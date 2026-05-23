@@ -1,11 +1,4 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@144.126.201.81:2083?security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws&amp;host=Koma-YT.PAGeS.Dev&amp;path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#v2ray_dalghak
-trojan://8r%3C%5B9%27l6hAO%238ZQi@161.35.46.34:2053?host=Koma-YT.PAGeS.Dev&amp;path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws#v2ray_dalghak
-trojan://8r%3C%5B9%27l6hAO%238ZQi@167.71.140.229:2096?host=Koma-YT.PAGeS.Dev&amp;path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws#v2ray_dalghak
-trojan://8r%3C%5B9%27l6hAO%238ZQi@51.89.22.80:8443?security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws&amp;host=Koma-YT.PAGeS.Dev&amp;path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#v2ray_dalghak
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#v2ray_dalghak
-trojan://humanity@188.121.121.183:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#V2rayng_Fast
-trojan://humanity@2.144.2.251:443?security=tls&amp;sni=www.creationlong.org&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#%40byiroh
-trojan://humanity@www.multiplydose.com:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#v2ray_dalghak
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@94.131.122.76:443?security=tls&amp;sni=hl-freedom-2.undef.network&amp;type=ws&amp;path=/f2fc2a1f#v2ray_dalghak
-trojan://telegram-id-privatevpns@13.37.60.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://wGXrCAVQoP@serval.jpax.ir:8080?path=%2Fserval&amp;security=none&amp;host=serval.jpax.ir&amp;type=ws#v2ray_dalghak
+trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20t.me%2FNatrixo%20AA
+trojan://humanity@www.multiplydose.com:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#[62097]
+trojan://n2asQTql7j@snapp.ir:2086/?type=ws&amp;path=%2F&amp;host=max1.sohrab172.ir&amp;security=none#%F0%9F%87%AE%F0%9F%87%B727756%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://wGXrCAVQoP@serval.jpax.ir:8080?path=%2Fserval&amp;security=none&amp;host=serval.jpax.ir&amp;type=ws#%F0%9F%87%AE%F0%9F%87%B727862%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET

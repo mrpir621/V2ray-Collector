@@ -1,3 +1,1 @@
-socks://93.113.230.143:10808?type=tcp#https://t.me/ConfigX2ray
-socks://Og@81.12.80.194:3030#%E2%9C%85%40v2r_ayorg
-socks://Og@عددی
+socks://Og@81.12.80.194:3030#%40Shomarrreh

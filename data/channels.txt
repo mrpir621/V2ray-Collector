@@ -3,7 +3,6 @@ academi_vpn
 acccrd
 accountstar
 achavpn
-acv_2ray
 aghayapple
 ahvaz_vpn
 akhbare2025
@@ -11,7 +10,6 @@ aklisvpn
 alixtso
 amir_v2ray
 anotherme_night
-antifilterjadid
 anty_filter
 appsooner
 appxa
@@ -61,11 +59,9 @@ canfing1free
 capital_net
 capoit
 caspian_vpn
-chat_nakone
 chatbuzzteam
 chatgpt_vpn
 chatgptdailyprompt
-chatnakonvaslshimdark
 chillguy_vpn
 chinaportgfw
 cloudcityy
@@ -216,7 +212,6 @@ hiddify_nexttt
 hope_net
 hopev2ray
 horizon_vpn
-https_config_injector
 hunnter_vpn
 hush_vpn
 hydra_vpn
@@ -231,7 +226,6 @@ iman_vpn
 imokping
 infotech_vk
 ip_cf
-ip_cf_config
 iproxychannel
 ipv2ray
 ir_netlify
@@ -270,7 +264,6 @@ kurdconfing
 kurdistan_vpn_perfectt
 lemon_vpn
 letsproxys
-letsproxys1
 lexonet
 light_vpn
 lightning6
@@ -433,7 +426,6 @@ redvpnnn
 rezvan_vpn
 rezzonez
 rojproxy
-romax_vpn
 rox_vpn
 roya_vpn
 royal_vpn
@@ -512,7 +504,6 @@ surfboardv2ray
 svnteam
 tajnet_bot
 tajnetvpn
-teamkingo
 tech_vpn
 techbod
 tehranargo
@@ -604,7 +595,6 @@ v2rayng_fast
 v2rayng_ip
 v2rayng_v
 v2rayng_vpn
-v2rayngg_iran
 v2rayngmat
 v2rayngn
 v2rayngninja
@@ -615,7 +605,6 @@ v2rayngzendegimamad
 v2rayroom
 v2rayrootfree
 v2rayroz
-v2raysfree
 v2raytun0
 v2raytz
 v2rayvpn2
@@ -665,7 +654,6 @@ vpn_ocean
 vpn_pasargad
 vpn_proxy_custom
 vpn_solve
-vpn_xw
 vpnbaz
 vpnclop
 vpncustomize

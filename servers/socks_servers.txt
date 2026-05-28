@@ -1,11 +1,2 @@
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#@KAFING_2
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#@KAFING_2
-socks://Og@109.122.252.86:1080#Black_Star_Vpn
-socks://Og@185.79.96.94:1070#%40VIPV2rayNGNP%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%20%F0%9F%A6%8B%20Ch...
-socks://Og@2.144.21.154:16751#3https://t.me/ConfigX2ray
-socks://Og@62.220.126.56:30170#VPNshop666
-socks://Og@62.220.126.92:30871#VPNshop666
-socks://Og@81.12.80.194:3030#@i10VPN
-socks://telegram-confixio@185.239.106.84:1449#ترکیبیConfixio@
-socks://telegram-confixio@193.151.149.247:8220#ترکیبیConfixio@
-socks://telegram-confixio@proxyanonymous13.pahlavi.dpdns.org:1080#ترکیبیConfixio@
+socks://127.0.0.1:10001
+socks://Og%3D%3D@2.144.21.154:16751#https%3A%2F%2Ft.me%2FV2ry_Proxy

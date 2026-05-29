@@ -1,10 +1,1 @@
-hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg03.459292.xyz:8080?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&amp;type=hysteria&amp;security=tls&amp;sni=sg03.459292.xyz&amp;alpn=h3&amp;fp=chrome&amp;allowInsecure=1&amp;echfq=none#En_Vpn
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2004%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@sg.9966690.xyz:10000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTd65A==#C%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@sg.9966690.xyz:20000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTd65A==#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2002%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@sg.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTd65A==#C%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@sg.9966690.xyz:50000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTd65A==#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2007%20TG%3A%20%40nodpai
-hysteria2://auth@49.12.142.89:443?insecure=1&alpn=h3&sni=www.microsoft.com#outline_ir
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1&sni=hy2.123266.xyz#APPXA-SI
+hysteria2://auth@49.12.142.89:443?insecure=1&amp;sni=www.microsoft.com&amp;alpn=h3&amp;fastopen=1&amp;up=50&amp;down=100#outline_ir

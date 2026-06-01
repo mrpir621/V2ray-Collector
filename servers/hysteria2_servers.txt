@@ -1,12 +1,3 @@
-hysteria2://68cf2e7761c240d9ba4c31f99ab37a9f@157.22.241.242:443?security=tls&amp;insecure=0&amp;sni=157.22.241.242#
-hysteria2://Masir_Sefid@18.159.104.97:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40t.me%2FKia_Net
-hysteria2://Masir_Sefid@18.159.104.97:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40t.me%2FKia_Net
-hysteria2://Masir_Sefid@18.159.104.97:444?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40t.me%2FKia_Net
-hysteria2://Masir_Sefid@18.159.104.97:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40t.me%2FKia_Net
-hysteria2://Masir_Sefid@18.159.104.97:8880?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40t.me%2FKia_Net
-hysteria2://Masir_Sefid@18.194.238.82:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%F0%9F%8C%90All--%40V2rayAlpha--4
-hysteria2://Masir_Sefid@18.194.238.82:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%F0%9F%8C%90All--%40V2rayAlpha--5
-hysteria2://Masir_Sefid@18.194.238.82:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#
-hysteria2://Masir_Sefid@18.194.238.82:444?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%F0%9F%8C%90All--%40V2rayAlpha--2
-hysteria2://Masir_Sefid@18.194.238.82:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%F0%9F%8C%90All--%40V2rayAlpha--6
-hysteria2://Masir_Sefid@18.194.238.82:8880?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%F0%9F%8C%90All--%40V2rayAlpha--3
+hysteria2://Masir_Sefid@18.194.238.82:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40B2vasl1
+hysteria2://rstnnl2705%3AQtmSqzxgO95zXwNcgVYSjDl02aRsjrrl@reddeadfan.rd-team.ru:2026/?insecure=1&amp;obfs=salamander&amp;obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2&amp;sni=reddeadfan.rd-team.ru#4%F0%9F%94%8A@oneclickvpnkeys
+hysteria2://rstnnl2705%3AZmRjX7MkeEqZ5GQUIT5VO53ARuy6nrmQ@nrealistic.nn-foto.ru:8932/?insecure=1&amp;obfs=salamander&amp;obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&amp;sni=nrealistic.nn-foto.ru#%F0%9F%94%8A76@oneclickvpnkeys

@@ -1,6 +1,1 @@
-socks://Og@130.185.75.82:9595#V2rayNG3
-socks://Og@62.220.126.56:30170#V2rayNG3
-socks://Og@62.220.126.92:30376#V2rayNG3
-socks://Og@87.107.155.141:1080#@v2rayng3
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@v2rayng3
-socks://bnVsbDpudWxs@62.220.126.92:30871#V2rayNG3
+socks://2.177.230.196:1081#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Falkenstein%20%7C%20IP%3A%2091.107.171.64%20%7C%20ping%3A532ms%20%7C%20%40NamazVPN

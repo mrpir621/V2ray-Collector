@@ -1,1 +1,2 @@
-socks5://T2clM0QlM0Q6@121.169.46.116:1090
+socks5://123456:@localhost:1080
+socks5://localhost:1080

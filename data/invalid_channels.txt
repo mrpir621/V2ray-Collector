@@ -1,4 +1,4 @@
-Invalid Telegram Channels — 2026-06-14T23:30:16.251980+00:00
+Invalid Telegram Channels — 2026-06-14T23:52:17.028497+00:00
 
 tradenets_bot
 khazan_news
@@ -7,4 +7,5 @@ drvpn7
 black_star_vpn
 drovone
 generalconfing
+rezzonez
 config_free2

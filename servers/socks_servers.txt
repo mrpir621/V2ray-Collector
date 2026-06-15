@@ -1,1 +1,2 @@
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0%3D@de-fra.pvdata.host:1080#azdeltaghalam7%F0%93%84%82%F0%93%86%83
 socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#@normanv2ray

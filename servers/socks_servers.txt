@@ -1,1 +1,4 @@
-socks://Og@185.79.96.94:1070#%40VIPV2rayNGNP%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%20%F0%9F%A6%8B%20Ch...
+socks://TV9ZT1VfRDpQcml2YXRl@us7.cactussstp.com:1080#@bored_vpn
+socks://TV9ZT1VfRDpQcml2YXRl@us9.cactussstp.com:1080#telegram
+socks://U2ticVF5VGc6VjJSYXl5Tkd2cG4@5.161.158.18:2083#
+socks://YmVpdGVuMzkzOjEyMw@2.180.23.229:3030#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29

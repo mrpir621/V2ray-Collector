@@ -1,6 +1,2 @@
-socks://Og@5.255.99.75:1080#%F0%9F%8F%9F%EF%B8%8FConfigV2RayNG
-socks://TV9ZT1VfRDpQcml2YXRl@us7.cactussstp.com:1080#telegram%20%40mtmvpn
-socks://TV9ZT1VfRDpQcml2YXRl@us9.cactussstp.com:1080#telegram%20%40mtmvpn
+socks://Og@213.199.47.140:1080#%E2%8F%B0ConfigV2RayNG
 socks://U2ticVF5VGc6VjJSYXl5Tkd2cG4@5.161.158.18:2083#
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20mtmvpn
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%F0%9F%A6%89%40FreeConfigForYou

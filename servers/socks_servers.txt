@@ -1,3 +1,1 @@
-socks://TV9ZT1VfRDpQcml2YXRl@us7.cactussstp.com:1080#telegram%20%40mtmvpn
-socks://TV9ZT1VfRDpQcml2YXRl@us9.cactussstp.com:1080#telegram%20%40mtmvpn
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20mtmvpn
+socks://Og@185.79.96.94:1070#%40VIPV2rayNGNP%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%20%F0%9F%A6%8B%20Ch...

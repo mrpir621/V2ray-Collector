@@ -1,8 +1,6 @@
-socks://MklMTG1aTVBoM2VreDRwYmR4NWJkbjhUOlRlbDZAU29vblRlYW0@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@dk-cop.pvdata.host:1080#%F0%9F%87%A9%F0%9F%87%B0%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ee-tal.pvdata.host:1080#%F0%9F%87%AA%F0%9F%87%AA%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@hu-bud.pvdata.host:1080#%F0%9F%87%AD%F0%9F%87%BA%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ro-buk.pvdata.host:1080#%F0%9F%87%B7%F0%9F%87%B4%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ua-nik.pvdata.host:1080#%F0%9F%87%BA%F0%9F%87%A6%40FreakConfig
+socks://Og@130.185.75.82:9595#V2rayNG3
+socks://Og@62.220.126.56:30170#V2rayNG3
+socks://Og@62.220.126.92:30376#V2rayNG3
+socks://Og@87.107.155.141:1080#@v2rayng3
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@v2rayng3
+socks://bnVsbDpudWxs@62.220.126.92:30871#V2rayNG3

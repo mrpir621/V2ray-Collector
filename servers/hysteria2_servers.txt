@@ -1,1 +1,1 @@
-hysteria2://ka4w34v5luuujxkj@167.233.87.60:39433?security=tls&amp;obfs=salamander&amp;obfs-password=f6qy1677vlvv5oj8&amp;insecure=1&amp;sni=167.233.87.60#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1415ms%20%7C%20%E2%9A%A11.6MB%2Fs%20%7C%20%40NamazVPN
+hysteria2://ka4w34v5luuujxkj@167.233.87.60:39433?security=tls&amp;obfs=salamander&amp;obfs-password=f6qy1677vlvv5oj8&amp;insecure=1&amp;sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1446ms%20%7C%20%E2%9A%A11.6MB%2Fs%20%7C%20%40NamazVPN

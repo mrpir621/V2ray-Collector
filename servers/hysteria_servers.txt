@@ -1,1 +1,1 @@
-hysteria://95.182.85.39:21402?downmbps=100&amp;upmbps=100&amp;auth=8TTauzC6Yundefined&amp;security=tls&amp;sni=tunnel.axonshield.ir&amp;fastopen=0#%F0%9F%87%B1%F0%9F%87%BB82935%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria://95.182.85.39:21402?downmbps=100&amp;upmbps=100&amp;auth=8TTauzC6Yundefined&amp;security=tls&amp;sni=tunnel.axonshield.ir&amp;fastopen=0#

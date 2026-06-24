@@ -1,3 +1,2 @@
-hysteria2://CRzpXvIiyI@185.250.41.245:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me%2FV2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://Z7MFGgpuzh@185.250.41.245:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me%2FV2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://ockdTdb3vU@185.250.41.245:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me%2FV2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://q3tf4lsdoqpgpo4x@191.101.238.183:54040?security=tls&amp;obfs=salamander&amp;obfs-password=%40JynMarket&amp;insecure=0&amp;sni=191.101.238.183#%F0%9F%87%BA%F0%9F%87%B8-%40JynMarket%C2%B9
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&amp;obfs=salamander&amp;obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&amp;insecure=0&amp;sni=tunel1.washing.help#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85

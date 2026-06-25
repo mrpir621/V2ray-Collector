@@ -1,2 +1,2 @@
-hysteria2://MySecurePassword123@157.230.222.46:8443/?sni=wuhantravel.duckdns.org#%F0%9F%92%9F74@oneclickvpnkeys
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443/?insecure=1&amp;sni=vpn-sg-001.fastervpn.world#%F0%9F%92%9F75@oneclickvpnkeys
+hysteria2://q3tf4lsdoqpgpo4x@191.101.238.183:54040?security=tls&amp;obfs=salamander&amp;obfs-password=%40JynMarket&amp;insecure=0&amp;sni=191.101.238.183#%F0%9F%87%BA%F0%9F%87%B8-%40JynMarket%C2%B9
+hysteria2://rmmx0x6kmwwppf6i@109.237.98.81:443?alpn=h3&amp;fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%225i4ciuz6d1431zbt%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&amp;fp=firefox&amp;obfs=salamander&amp;obfs-password=5i4ciuz6d1431zbt&amp;security=tls&amp;sni=109.237.98.81#

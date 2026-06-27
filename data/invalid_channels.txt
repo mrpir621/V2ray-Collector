@@ -7,7 +7,6 @@ drvpn7
 black_star_vpn
 flash_vpn
 b_vpn_free
-lldalall
 vaslshiiimm
 drovone
 skyportall

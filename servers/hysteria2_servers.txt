@@ -1,1 +1,1 @@
-hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;sni=www.oracle.com#sbr
+hysteria2://Z7MFGgpuzh@185.250.41.245:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me%2FV2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig

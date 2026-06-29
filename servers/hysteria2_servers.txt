@@ -1,1 +1,1 @@
-hysteria2://t-me-v2rayyngvpn@65.109.177.191:443?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;sni=www.oracle.com#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+hysteria2://653m8mmiy7048p0f@social.klipp.su:443/?obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb&amp;sni=social.klipp.su#%F0%9F%8F%8768@oneclickvpnkeys
